@@ -1,6 +1,6 @@
 
 
-<h1>Hola, soy <a href="https://www.linkedin.com/in/ender-garizabal-sobrino-361029156/" target="_blank" ><span>Énder de Jesús Garizábal Sobrino</span></a></h1>
+<h1>Hola, soy <a href="https://www.linkedin.com/in/ender-garizabal-sobrino-361029156/" target="_blank" rel="noopener noreferrer"><span>Énder de Jesús Garizábal Sobrino</span></a></h1>
 <h2>Ing. Electrónico - Desarrollador</h2>
 
 <div>
