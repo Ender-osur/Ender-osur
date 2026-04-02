@@ -42,4 +42,4 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ender-osur&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ender-osur&show_icons=true&theme=tokyonight)
