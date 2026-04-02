@@ -6,9 +6,8 @@
 <div>
   <h3>Actualmente: </h3>
   <ul>
-    <li>Estudio una especialización en desarrollo de software</li>
-    <li>Trabajo en mi marca personal</li>
-    <li>Busco nuevas oportunidades de enfrentarme a retos</li>
+    <li>Trabajo desarrollando soluciones open source</li>
+    <li>Desarrollo para el sector privado</li>
   </ul>
 </div>
 
