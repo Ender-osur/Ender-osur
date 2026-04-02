@@ -40,6 +40,4 @@
 </div>
 
 
-
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ender-osur&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://ghstats.dev/api/card?username=Ender-osur)
