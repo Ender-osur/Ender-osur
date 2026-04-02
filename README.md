@@ -42,4 +42,4 @@
 
 
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Ender-osur&show_icons=true&locale=en&hide_border=true&theme=radical&custom_title=Github%20Stats%20of%20Ender)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ender-osur&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
