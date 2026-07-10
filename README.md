@@ -16,7 +16,6 @@
   <p>Tecnologías que he usado:</p>
   <div style="display: flex; flex-direction: column; gap: 10px;">
     <img height="30" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" alt="Python">
-    <img height="30" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
     <img height="30" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vuejs/vuejs-original.svg">
     <img height="30" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg">
     <img height="30" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg">
