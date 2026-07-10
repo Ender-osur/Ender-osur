@@ -8,6 +8,7 @@
   <ul>
     <li>Trabajo desarrollando soluciones open source</li>
     <li>Desarrollo para el sector privado</li>
+    <li>Desarrollo soluciones de software a la medida</li>
   </ul>
 </div>
 
